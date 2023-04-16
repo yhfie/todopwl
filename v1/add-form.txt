@@ -1,0 +1,3 @@
+<form action="" class="input-form">
+                    <input type="text" id="input-list" placeholder="Write anything...👀" class="list-input form-control col-sm-12">
+</form>
